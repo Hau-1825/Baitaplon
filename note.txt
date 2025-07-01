@@ -1,0 +1,11 @@
+app.py: Khởi động ứng dụng Flask
+
+routes.py: Chứa logic điều hướng giữa các level
+
+crypto/: Chứa các thuật toán mã hóa: Caesar, Vigenère, RSA, AES
+
+templates/: Giao diện HTML cho từng màn chơi và kết quả
+
+static/: CSS, JS, hình ảnh
+
+puzzles/: Các file văn bản chứa thông điệp mã hóa theo từng level
